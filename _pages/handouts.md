@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Handouts"
-permalink: /handouts/
+title: "Physics Olympiad"
+permalink: /physicsolympiad/
 author_profile: true
 ---
+
+## Advice
 
 ## F=ma
 
 ## Olympiad
 
 ## Math
-
-## Misc
